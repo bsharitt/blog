@@ -50,3 +50,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  social_links:
+    twitter: BrandonSharitt
+    linkedin: bsharitt
+    mastadon:
+      - username: bsharitt
+        instance: fosstodon.org
