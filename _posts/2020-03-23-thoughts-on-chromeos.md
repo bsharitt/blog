@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on ChromeOS"
-date:   2020-03-23 15:52:00 -0500
+date:   2020-03-22 15:52:00 -0500
 ---
 
 I've had a bad habit the past few years of either trying to completely de-Google my life or go all in on Google. Last year I went overboard thanks to how neat and useful Google Assistant seemed, and while I'm recovering from that, I've not decided to go full anti-Google right now. One thing that did come out of that is I got a Chromebook, specifically the Lenovo Yoga C630. It's one of the higher spec'd Chromebooks and is decent laptop overall, but unfortunately when trying to run Linux on it, there's still some missing pieces drivers, crucially audio. So I'm stuck with ChromeOS for now. So I've tried to give it a fair shake to see if it can be my full time computer. Luckily being a fairly recent Chromebook with good specs, it supports both Android apps and the Crostini Linux environment. Android apps I find the most disappointing since for the most part Android developers never took Android tablets seriously and thus they are all basically phone apps that either get stretched to full screen or show up in little windows sized and shaped like a phone screen. There are a few that work okay such as Hearthstone or Discord if you stretch out the window to more desktop dimensions, but then there are plenty more that are stuck looking like stretched out phone apps or just don't work at all. Google seems to be positioning Android apps as *the* apps of the future for ChromeOS with the sunset of current native Chrome apps already on the horizon.
