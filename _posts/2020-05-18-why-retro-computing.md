@@ -1,7 +1,7 @@
 ---
 title: "Why Retro Computing"
 layout: post
-date: 2020-05-18 07:00:00 -0500
+date: 2020-05-18 07:00:00 -05:00
 ---
 
 I've been a retro-computing hobbyist pretty much since I was a kid when I we got a bunch of old equipment from the 
