@@ -31,7 +31,7 @@ mastodon:
     instance: fosstodon.org
 
 # Build settings
-theme: jekyll-theme-monos
+theme: jekyll-theme-hyde
 plugins:
   - jekyll-feed
 
