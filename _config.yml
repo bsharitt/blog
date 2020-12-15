@@ -30,7 +30,7 @@ mastodon:
     instance: fosstodon.org
 
 # Build settings
-theme: minima
+theme: jekyll-dash
 plugins:
   - jekyll-feed
 
