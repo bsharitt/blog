@@ -34,9 +34,6 @@ theme: jekyll-dash
 plugins:
   - jekyll-feed
 
-paginate: 5
-paginate_path: "/page:num"
-
 dash:
   social_links:
     - url: https://twitter.com/bsharitt
