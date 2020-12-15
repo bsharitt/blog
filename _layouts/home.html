@@ -10,11 +10,7 @@ layout: default
   {{ content }}
 
 
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
+  {% assign posts = site.posts %}
 
 
   {%- if posts.size > 0 -%}
@@ -33,6 +29,7 @@ layout: default
         </h3>
         {{post.content | truncatewords:50 | strip_html}}
       </li>
+      <br />
       {%- endfor -%}
     </ul>
 
