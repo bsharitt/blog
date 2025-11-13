@@ -18,27 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brandon Sharitt's Blog
-email: brandon@sharitt.com
+title: Bridget's Blog
+email: bridget@sharitt.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just my blog for now      
+  Just my blog      
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sharitt.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  bsharitt
+url: "https://bridget.sharitt.com" # the base hostname & protocol for your site, e.g. http://example.com
 mastodon:
-  - username: bsharitt
-    instance: fosstodon.org
+  - username: bridget
+    instance: gts.sharitt.com
+bluesky_username: bridget.sharitt.com
 
 # Build settings
-theme: jekyll-dash
+theme: minima
 plugins:
   - jekyll-feed
 
-dash:
-  social_links:
-    - url: https://twitter.com/bsharitt
-      icon: twitter-square
-      color: cyan
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
